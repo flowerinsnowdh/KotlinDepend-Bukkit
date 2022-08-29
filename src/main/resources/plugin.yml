@@ -1,0 +1,3 @@
+name: KotlinDepend
+main: online.flowerinsnow.kotlindepend.bukkit.Main
+version: 1.7.10
